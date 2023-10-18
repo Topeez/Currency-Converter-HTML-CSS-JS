@@ -84,6 +84,7 @@ form .drop-list {
   margin-top: 20px;
   align-items: center;
   justify-content: space-between;
+  cursor: pointer;
 }
 
 .drop-list .select-box {
